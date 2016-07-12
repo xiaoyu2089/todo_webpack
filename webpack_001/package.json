@@ -1,0 +1,15 @@
+{
+  "name": "webpack_001",
+  "version": "1.0.0",
+  "description": "逐步了解webpack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack ./src/app/index.js ./dist/bundle.js"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "zhangyu",
+  "license": "ISC"
+}
