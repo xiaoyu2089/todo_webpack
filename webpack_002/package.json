@@ -1,0 +1,16 @@
+{
+  "name": "webpack_001",
+  "version": "1.0.0",
+  "description": "逐步了解webpack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --progress --colors --watch",
+    "dev-build": "webpack-dev-server --progress --colors"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "zhangyu",
+  "license": "ISC"
+}
